@@ -4,4 +4,4 @@ This is tailwindcss practise daily day 3
 
 ## Extra
 
-Rest you can see on main branch.
+Rest you can see on main branch. Just a new commit
