@@ -1,6 +1,6 @@
-# Tailwindcss practise Day 34
+# Tailwindcss practise Day 35
 
-This is tailwindcss practise day 34
+This is tailwindcss practise day 35
 
 ## Extra
 
