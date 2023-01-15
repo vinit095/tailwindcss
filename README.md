@@ -1,6 +1,6 @@
-# Tailwindcss practise Day 48
+# Tailwindcss practise Day 49
 
-This is tailwindcss practise day 48
+This is tailwindcss practise day 49
 
 ## Extra
 
