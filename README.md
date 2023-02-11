@@ -1,6 +1,6 @@
-# Tailwindcss practise Day 76
+# Tailwindcss practise Day 77
 
-This is tailwindcss practise day 76
+This is tailwindcss practise day 77
 
 ## Extra
 
